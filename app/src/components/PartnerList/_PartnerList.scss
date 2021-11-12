@@ -1,0 +1,17 @@
+.PartnerList {
+  background-color: #F2F2F2;
+  color: #354556;
+  align-items: center;
+
+  & .container {
+	max-width: 1110px;
+	margin: 0 auto;
+	padding-top: 53px;
+	padding-bottom: 120px;
+  }
+  & .error-message {
+	text-align: center;
+	font-size: 24px;
+	padding: 150px;
+  }
+}
